@@ -52,8 +52,6 @@ Two workpackages:
 
 ::: {.incremental}
 
-<br>
-
 1. **How diverse are Danish workplaces across gender, age, and immigrant origin, in the period from 1996 to 2022?**
 
 2. <span style="color: grey;">How does the diversity at *management* and *employee levels* affect the recruitment of new employees, and how are these relationships conditioned by the workplace's organization, recruitment practices, and degree of competitive exposure?</span>
@@ -62,12 +60,12 @@ Two workpackages:
 
 ---
 
-#### Answering: *How diverse are Danish workplaces across gender, age, and immigrant origin, in the period from 1996 to 2022?*
+#### *How diverse are Danish workplaces across gender, age, and immigrant origin, in the period from 1996 to 2022?*
 
 <br>
 
 <div class="fragment">
-<span style="color: grey;">Report and interactive barometer, benchmarking</span>
+<span style="color: grey;">Report and interactive barometer for benchmarking</span>
 </div>
 
 <br>
@@ -82,28 +80,30 @@ Research paper: *What drives changes in workplace segregation?* (todays presenta
 
 ## Segregated workplaces and motivation 
 
+Similar to, yet different from, segregated **occupations** and/or **sectors**
+
 ::: {.incremental}
 
-- Similar to, yet different from, segregated **occupations** and/or **sectors**
-    - Sectors, occupations, and workplaces all measure the uneven distribution of demographic groups across labor market positions
+- Sectors, occupations, and workplaces all measure the uneven distribution of demographic groups across labor market positions
     - Can be quantified using similar indices (dissimilarity, isolation, entropy)
     - All three have been invoked to explain wage gaps, inequality, and social stratification.
-    - *Abstraction defined by classification schemes vs. distribution across actual* **physical establishments**
+
+- *Abstraction defined by classification schemes vs. distribution across actual* **physical establishments**
 
 :::
 
 ## Segregated workplaces and motivation 
 
+Core intrest is **intergroup exposure in daily life**
+
 ::: {.incremental}
 
-- Core intrest is **intergroup exposure in daily life**
-    - Who works together at the same *place* (address) at the same *time* 
+
+- Who works together at the same *place* (address) at the same *time* 
     - For **contact theory**, workplace segregation is what matters
 
-- Occupational segregation reveals only the **aggregate distribution** of what workers are called
-    - An occupation may appear integrated in aggregate while individual workplaces remain highly segregated
-
-- Workplace segregation is **not simply a more granular version of occupational segregation**
+- An occupation may appear integrated in aggregate while individual workplaces remain highly segregated
+    - Workplace segregation is **not simply a more granular version of occupational segregation**:
     - Workers in the same workplace often occupy different occupations (nurse, administrator, janitor)
     - Workers in the same occupation often work at different workplaces
 
@@ -121,7 +121,7 @@ Research paper: *What drives changes in workplace segregation?* (todays presenta
 - Rooted in **neoclassical labor market theory**(ies) $^1$
 - Discrimination is "expensive" → competitive markets erode it
 - Workers seek **jobs matching** their skills; employers seek the best match
-- **Prediction:** As underrepresented groups grow in the labor force, workplace composition follows
+- **Prediction:** As underrepresented groups grow in the labor force, and becomes increasingly similar to the "majority", workplace composition follows
 
 :::
 
@@ -136,7 +136,7 @@ Research paper: *What drives changes in workplace segregation?* (todays presenta
 ::: {.incremental}
 - Rooted in **segmented labor market theory** $^2$ 
 - **Demand-side** mechanisms maintain segregation independent of supply
-- Employers channel groups into different positions, firms, or sectors
+- Employers channel groups into different positions, workplaces, or sectors
 - **Mechanisms:** Hiring preferences, network recruitment, institutional practices, self-selection $^3$ 
 
 :::
@@ -198,7 +198,7 @@ The workplace will "naturally" include a greater number of female engineers as *
 <div style="font-size: 0.8em;">
 
 <div class="fragment">
-The company will **continue to hire male engineers** as they have always done and therefore **female engineers will cluster in other workplaces**.
+The company will **continue to hire male engineers**, because this is what they have always done, and know, and therefore **female engineers will cluster in other workplaces**.
 </div>
 
 </div>
@@ -215,17 +215,19 @@ The company will **continue to hire male engineers** as they have always done an
 
 > **H1b** (*Sorting Effects*): <span style="color: black;">Workplace **segregation will remain stable or increase** despite growing labor force diversity, reflecting demand-side mechanisms that maintain segregated employment structures independent of labor pool composition.</span> 
 
----
+## Hypotheses (2)
 
 It not enough that a previously underrepresented groups becomes bigger, the group must also, on average, have the skills to be a match for different type of workplaces. 
 
-- If no men have a nursing degree, they cannot work as a nurse. 
-- If no immigrants get a degree in child-care, they cannot work in child-care. 
+- *If no men have a nursing degree, they cannot work as a nurse.* 
+- *If immigrants, on average, have less years of education, they will be less represented in high-skilled workplaces*
 
-Two pathways to workplace segregation help further **tease-out pool and sorting effects** in a context of changing demographic composition of the workforce and changing levels of segregation: 
+<br>
 
-1. ***Skill-mediated allocations***, and 
-2. ***Residual Sorting***
+1. **Skill-mediated sorting**: Segregation as a by-product of skill matching
+    - *Segregation occurs without discriminatory intent*
+
+2. **Residual Sorting**: Segregation beyond what skills can explain (*unobservables*)
 
 ---
 
@@ -261,33 +263,6 @@ Two pathways to workplace segregation help further **tease-out pool and sorting 
 **Note:**  Skill refers to both *level of education* and type of *occupation/degree*
 :::
 
----
-
-### 1. Skill-mediated sorting
-
-**Segregation as a by-product of skill matching**
-
-- Demographic groups differ in education, credentials, experience
-- Jobs requiring specific skills cluster at specific workplaces
-- Workers sort into workplaces based on qualifications
-- **Result:** *Segregation occurs without discriminatory intent*
-
-
-::: {.callout-note appearance="minimal"}
-**Example:** If immigrants have lower host-country credential recognition on average, and low-credential jobs concentrate at certain workplaces, immigrant-native segregation emerges through skill matching alone.
-:::
-
----
-
-### 2. Residual Sorting
-
-**Segregation beyond what skills can explain** (*unobservables*)
-
-- **Taste-based discrimination:** Employer preferences for/against certain groups 
-- **Statistical discrimination:** Using group membership as a proxy for unobserved productivity 
-- **Network reproduction:** Referral-based hiring reproduces existing demographics through homophily 
-- **Employee preferences:** Workers prefer colleagues from same group 
-
 ## Hypotheses (2)
 
 > **H2** (*Skill Sorting Hypothesis*): <span style="color: black;">The relative contribution of skill-mediated versus residual sorting varies by demographic group. Specifically:</span> 
@@ -298,12 +273,9 @@ Two pathways to workplace segregation help further **tease-out pool and sorting 
 
 > (c) *Seniors*: Segregation reflects both skill- and residual sorting (skill depreciation and age-based sorting)
 
----
+## Hypothesis (3)
 
-## Structural moderators
-
-**Segregation is not only a product of who workers are—it also depends on where they work.**
-
+**Segregation is not only a product of who workers are—it also depends on where they are employed.**
 
 - $H2$ focus on *worker-level* mechanisms (skills, networks, preferences)
 - Segregation processes is expected to vary by *workplace-level* characteristics
@@ -313,11 +285,15 @@ Two pathways to workplace segregation help further **tease-out pool and sorting 
 
 **Workplaces differ in:**
 
+<div style="font-size: 0.8em;">
+
 - **Size** 
 - **Skill composition**
 - *Hiring formalization*
 - *Regulatory exposure*
 - *Turnover rates*
+
+</div>
 
 ## Hypothesis (3)
 
@@ -340,19 +316,6 @@ Two pathways to workplace segregation help further **tease-out pool and sorting 
 <br>
 
 > **H4** (*Workplace Skill-Level Hypothesis*): <span style="color: black;">The level of segregation varies systematically across workplace skill-levels, with group-specific patterns:</span> 
-
-<br>
-
-**Two competing mechanisms:**
-
-<br>
-
-| | High-skill workplaces | Low-skill workplaces |
-|---|---|---|
-| **Reducing segregation** | Formalized, credential-based hiring limits network effects and taste-based discrimination | — |
-| **Increasing segregation** | Credential requirements exclude groups with limited access to recognition | Informal hiring, weak oversight, secondary labor markets enable discriminatory sorting |
-
----
 
 ::: columns
 
@@ -568,9 +531,7 @@ Denmark provides a strong test because pool effects have *every advantage*:
 - Higher turnover → more hiring decisions observed
 :::
 
-**N:** 29,000 unique workplaces, 3,8 million unique workers over the time period. (12,000 and 1,500,000 in 2022)
-
-Represents approximately half of the Danish workforce
+**N:** 12,000 workplaces and 1,500,000 workers in 2022. Approximately half of the Danish workforce
 
 ---
 
@@ -618,7 +579,7 @@ Composite measure of workplace skill level
 ::: {.callout-note appearance="minimal"}
 **Note**: Currently limited to 1996-2007 while robostness checks is done on the construction of the measure from 2008-2022.
 :::
-## Measuring Segregation and Intergroup Exposure
+## Measuring segregation and intergroup exposure
 
 ---
 
@@ -631,8 +592,6 @@ For each worker, I calculate the share of coworkers from a given demographic gro
 $$
 \text{Share}_{iwt} = \frac{\sum_{j \neq i \in w} \mathbb{1}(group_j = g)}{n_w - 1}
 $$
-
-This is calculated for every worker, regardless of their own group membership.
 
 ::: {.callout-note appearance="minimal"}
 **Example:** A 10-person workplace with 4 women
@@ -660,7 +619,7 @@ $$I = \frac{1}{N_g}\sum_{i \in g} \text{Share}_{iwt}$$
 $$E = \frac{1}{N_{\neg g}}\sum_{i \notin g} \text{Share}_{iwt}$$
 
 ::: {.callout-note appearance="minimal"}
-**Example (Women, 2022):**
+**Example (Women in 2022, actual numbers):**
 
 - **I = 63%**: The average woman has 63% female coworkers
 - **E = 37%**: The average man has 37% female coworkers
@@ -670,13 +629,15 @@ $$E = \frac{1}{N_{\neg g}}\sum_{i \notin g} \text{Share}_{iwt}$$
 
 ---
 
-### Step 3: Segregation as a gap in experience
+### Step 3: Segregation as a gap in exposure/experience
 
-<div style="font-size: 0.8em;">
+
 
 $$
 S = I - E
 $$
+
+<div style="font-size: 0.8em;">
 
 Segregation measures the **gap** in exposure to a group between in-group and out-group members.
 
@@ -723,6 +684,8 @@ $$
 $$S^{E} = \frac{26 - 4}{100 - 4} = \frac{22}{96} = 23\%$$
 
 About a quarter of all *possible* excess segregation is realized.
+
+**Note:** In this sample (workplaces with 50+ employees), $S$ and $S^E$ are nearly identical. Large workplaces produce minimal "segregation by chance"—random assignment would make coworker composition converge toward population averages. Virtually all observed segregation reflects **systematic sorting**, not statistical noise.
 :::
 
 </div>
@@ -733,6 +696,7 @@ Hellerstein and Neumark (2008)
 </div>
 :::
 
+<!---
 ---
 
 ### Interpreting the Index
@@ -752,6 +716,8 @@ Hellerstein and Neumark (2008)
 :::
 
 </div>
+
+--->
 
 <!---
 ---
@@ -777,7 +743,7 @@ Hellerstein and Neumark (2008)
 
 ### Conditional segregation analysis
 
-To answer whether segregation is driven by skill differences or by other mechanisms, I randomly reassign workers *within* skill categories, holding workplace skill composition fixed: *A nurse could only be assigned to workplaces that employ nurse, etc.*
+To answer whether segregation is driven by skill differences or by other mechanisms, I randomly reassign workers *within* skill categories, holding workplace skill composition fixed: *A nurse can only be assigned to workplaces that employ nurse, etc.*
 
 <!---
 <div style="font-size: 0.75em;">
@@ -789,6 +755,8 @@ To answer whether segregation is driven by skill differences or by other mechani
 
 </div>
 --->
+
+<br>
 
 The gap between **observed** and this **conditional baseline** tells us how much segregation is *skill-mediated*. What remains after conditioning is *residual*
 
@@ -832,7 +800,11 @@ $$
 
 ## H1: Pool Effects vs. Sorting Effects
 
-**Does increased labor force diversity lead to workplace integration?**
+**Does increased labor force diversity lead to more workplace diversity?**
+
+---
+
+![](fig_faceted_full.svg)
 
 ---
 
@@ -856,14 +828,18 @@ $$
 
 </div>
 
+<br>
+
 ![](corr.png)
 
-- **Immigrants & Seniors:** Sorting dominates—more diversity, more segregation
-- **Women:** (S)low integration despite stable representation
+<br>
+
+- **Immigrants and Seniors:** Sorting dominates—more diversity, more segregation
+- **Women:** Stable --- or (s)low integration despite stable representation?
 
 ---
 
-### Divergent Trajectories
+### Trajectories
 
 <br>
 
@@ -878,73 +854,7 @@ $$
 Despite decades of gender equality policy, female segregation barely moved. For immigrants and seniors, segregation *increased* as their labor force share grew.
 :::
 
----
-
 <!---
-
-Group-Specific Interpretations
-::: columns
-::: column
-Women
-
-Highest absolute segregation
-But stable/slightly declining
-Reading: Entrenched but not worsening; structural gender sorting is "baked in" to the Danish labor market
-
-:::
-::: column
-Seniors
-
-Lowest absolute segregation
-But fastest relative growth
-Reading: Were nearly randomly distributed in 1996; emerging concentration as cohort grows
-
-:::
-:::
-Immigrants
-
-Moderate and rising fast
-Both level and trend are concerning
-Reading: Active sorting into niches as the immigrant workforce expands; segregation intensifying with demographic growth
-
-
-
-The Paradox
-::: {.callout-tip appearance="minimal"}
-Key insight: The group with the highest segregation (women) is the only one improving. The groups with lower starting points (immigrants, seniors) are worsening.
-This suggests different mechanisms:
-
-Women: Longstanding, institutionalized segregation that policy may be slowly eroding
-Immigrants/Seniors: Dynamic sorting that responds to demographic change—the labor market channels new entrants into niches
-:::
-
-
-
-
-Three Ways to Read the Table
-1. Absolute Levels (2022)
-GroupSES^E
-SE Interpretation
-Women0.26Moderate—about a quarter of maximum possible segregation
-Immigrants0.17Modest but substantial
-Seniors0.07Low—close to random assignment
-
-::: {.callout-note appearance="minimal"}
-Ranking by level: Women >> Immigrants >> Seniors
-Gender segregation remains the most entrenched feature of Danish workplaces.
-:::
-
-
-2. Relative Change (trajectory)
-GroupChangeInterpretationWomen−10%Slight improvement, essentially stableSeniors+133%More than doubledImmigrants+183%Nearly tripled
-::: {.callout-warning appearance="minimal"}
-Ranking by change: Immigrants >> Seniors >> Women
-The groups that grew in the labor force became more segregated.
-:::
-
----->
-
-
 
 ```{r}
 #| echo: false
@@ -1046,15 +956,6 @@ ggplot(df) +
 ```
 
 ---
-
-
-
-
-
-
-<!---
-"#2E86AB", "#A23B72", "#F18F01"
---->
 
 ```{r}
 #| echo: false
@@ -1176,6 +1077,9 @@ ggplot(df) +
   )
 ```
 
+
+--->
+
 ---
 
 ### Interpretation
@@ -1226,33 +1130,6 @@ ggplot(df) +
 
 **How much segregation is explained by observable skills?**
 
-<!---
----
-
-### Decomposition Results
-
-![](fig_explained00.svg)
-
----
-
-### Decomposition Results
-
-![](fig_explained0.svg)
-
----
-
-### Decomposition Results
-
-![](fig_explained1.svg)
-
----
-
-### Decomposition Results
-
-![](fig_explained.svg)
-
----> 
-
 ---
 
 ### Gender segregation: *Horizontal sorting*
@@ -1265,7 +1142,7 @@ ggplot(df) +
 ::: {.callout-note appearance="minimal"}
 **Interpretation:** Gender segregation operates *horizontally*—men and women have similar education levels but sort into different occupations and workplaces.
 
-The large residual suggests self-selection into family-friendly workplaces, gendering of work, or gendered recruitment networks [@pan2015gender; @usui2008job].
+The large residual suggests self-selection into family-friendly workplaces, gendering of work, or gendered recruitment networks.
 :::
 
 ---
@@ -1312,15 +1189,11 @@ Primary mechanisms likely include cohort-specific labor market attachment, techn
 |-------|-----------------|-----------|----------|
 | **Women** | Horizontal | Occupational differentiation | 73% |
 | **Immigrants** | Vertical | Credential gaps | 43% |
-| **Seniors** | Non-skill | Cohort/life decisions | >85% |
+| **Seniors** | Non-skill | Cohort/life decisions | 90% |
 
 ::: {.callout-tip appearance="minimal"}
 **H2 supported:** Sorting mechanisms differ systematically across groups—occupational for gender, educational for immigrants, and largely non-observable for seniors.
 :::
-
-
-
-
 
 ## H3: Workplace size
 
@@ -1344,18 +1217,15 @@ Primary mechanisms likely include cohort-specific labor market attachment, techn
 
 ---
 
-![](fig_sized.svg)
-
----
-
 - **All groups:** Larger workplaces → lower segregation
-- Supports pool effects mechanism: scale enables diversification
 - **Exception:** Gender segregation increases slightly between 500–999 and 1000+ employees
 
 
 ::: {.callout-tip appearance="minimal"}
-**H3 supported:** Organizational scale moderates segregation—larger workplaces show stronger integration, consistent with formalized hiring, regulatory pressure, and reduced reliance on network recruitment.
+**H3 supported:** Organizational scale moderates segregation—possibly a reflection of formalized hiring, regulatory pressure, and reduced reliance on network recruitment.
 :::
+
+![](fig_sized.svg)
 
 ---
 
@@ -1504,49 +1374,12 @@ p_women + p_immigrant + p_senior +
 ```
 
 ::: {.callout-tip appearance="minimal"}
-**H4 supported:** Segregation patterns vary systematically by workplace skill level, with distinct shapes for each demographic group reflecting different sorting mechanisms.
+**H4 preliminary suggestion:** Segregation patterns vary systematically by workplace skill level, with distinct shapes for each demographic group reflecting different sorting mechanisms.
 :::
 
 ---
 
-| Group | Pattern | *Possible* mechanisms |
-|-------|---------|-----------|
-| **Women** | Inverted U, Significant quadratic term (p < 0.05, 1996–2015) | Gendered queues strongest at mid-skill |
-| **Immigrants** | Asymmetric U, Significant positive quadratic term ( p < 0.05) | Credential barriers (high) + ethnic niches (low) |
-| **Seniors** | U-shape in early years, approaching linear pattern by 2022 (Insignificant) | - |
-
-
-<!----
-
-"This figure shows how segregation varies across the skill spectrum for each group—and the shapes are strikingly different.
-For women, we see an inverted U. Segregation peaks in mid-skill workplaces and is lower at both extremes. This is where gendered occupational queues and devaluation mechanisms operate most strongly.
-For immigrants, the pattern is a U-shape, but heavily asymmetric. There's concentration at both ends of the skill spectrum, but the low-skill side dominates. At the high end, credential recognition barriers limit access. At the low end, network-based hiring channels immigrants into ethnic occupational niches.
-For seniors, the pattern has shifted over time. In 1996, shown by the dashed line, we see a classic U-shape—seniors were polarized, retained in high-skill positions through accumulated expertise but also pushed into low-skill roles. By 2022, the solid line, this has flattened into a near-linear decline. Seniors are now predominantly concentrated in low-skill workplaces, suggesting increased downward channeling over time.
-Each shape tells a different story about how sorting operates—horizontal for gender, vertical-asymmetric for immigrants, and shifting downward for seniors."
-
------>
-
----
-
-### The Core Finding
-
-The labor market appear to absorb demographic change by **channeling groups into specific workplaces**, not by integrating them across workplaces.
-
-::: {.callout-warning appearance="minimal"}
-**Sorting effects dominate pool effects.**
-
-Despite Denmark's tight labor markets, anti-discrimination laws, and dramatic demographic change—conditions maximally favorable to integration—workplace segregation has *increased* for immigrants and seniors.
-:::
-
-::: {.callout-tip appearance="minimal"}
-**Denmark's experience suggests a sobering conclusion:**
-
-Demographic diversification of the labor force does not automatically produce workplace integration. Without targeted intervention addressing group-specific sorting mechanisms, increased diversity may paradoxically deepen segregation.
-
-:::
-
-
----
+### Main findings
 
 | Group | Level (2022) | Trend | Implication |
 |-------|--------------|-------|-------------|
@@ -1556,7 +1389,26 @@ Demographic diversification of the labor force does not automatically produce wo
 
 ---
 
-### Theoretical Contributions
+### Main findings
+
+The labor market appear to absorb demographic change by **channeling groups into specific workplaces**, not by integrating them across workplaces.
+
+::: {.callout-warning appearance="minimal"}
+**Sorting effects dominate pool effects.**
+
+Despite Denmark's tight labor markets, anti-discrimination laws, and dramatic demographic change—conditions maximally favorable to integration—workplace segregation has *increased* for immigrants and seniors and remains relatively stable for women. 
+:::
+
+::: {.callout-tip appearance="minimal"}
+**Denmark's experience suggests a sobering conclusion:**
+
+Demographic diversification of the labor force does not automatically produce workplace integration. Without targeted intervention addressing group-specific sorting mechanisms, increased diversity may paradoxically deepen segregation.
+
+:::
+
+---
+
+### Theoretical contributions
 
 ::: {.incremental}
 1. **Pool effects have limits:** Even under ideal conditions, competitive markets do not eliminate segregation
@@ -1565,7 +1417,6 @@ Demographic diversification of the labor force does not automatically produce wo
 :::
 
 ---
-
 
 ### Future Directions
 
@@ -1581,7 +1432,7 @@ Demographic diversification of the labor force does not automatically produce wo
 
 1. Index construction 
 
-2. Interpretation of "strength" ... is it alot? 
+2. Interpretation of "strength"
 
     What should be the baseline or point of comparison? 
 
