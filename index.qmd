@@ -38,4 +38,1552 @@ format:
           </style>
 ---
 
-## Introduction 
+## Introduction
+
+
+#### *Diversity at work and its implications for recruitment* (DIREK)
+
+- Christian Albrekt Larsen 
+- Jeevitha Yogachandiran Qvist
+
+<br>
+
+Two workpackages: 
+
+::: {.incremental}
+
+<br>
+
+1. **How diverse are Danish workplaces across gender, age, and immigrant origin, in the period from 1996 to 2022?**
+
+2. <span style="color: grey;">How does the diversity at *management* and *employee levels* affect the recruitment of new employees, and how are these relationships conditioned by the workplace's organization, recruitment practices, and degree of competitive exposure?</span>
+
+:::
+
+---
+
+#### Answering: *How diverse are Danish workplaces across gender, age, and immigrant origin, in the period from 1996 to 2022?*
+
+<br>
+
+<div class="fragment">
+<span style="color: grey;">Report and interactive barometer, benchmarking</span>
+</div>
+
+<br>
+
+<div class="fragment">
+Research paper: *What drives changes in workplace segregation?* (todays presentation)
+</div>
+
+<div class="fragment">
+> <span style="color: black;">When the labor force becomes more diverse, does this diversity naturally "trickle down" into more diverse *workplaces* through competitive labor market processes (*pool effects*; supply-driven integration), or does different groups continue to be sorted into their own respective workplaces and labor market segments (*sorting effects*; demand-driven segregation).</span>
+</div>
+
+## Segregated workplaces and motivation 
+
+::: {.incremental}
+
+- Similar to, yet different from, segregated **occupations** and/or **sectors**
+    - Sectors, occupations, and workplaces all measure the uneven distribution of demographic groups across labor market positions
+    - Can be quantified using similar indices (dissimilarity, isolation, entropy)
+    - All three have been invoked to explain wage gaps, inequality, and social stratification.
+    - *Abstraction defined by classification schemes vs. distribution across actual* **physical establishments**
+
+:::
+
+## Segregated workplaces and motivation 
+
+::: {.incremental}
+
+- Core intrest is **intergroup exposure in daily life**
+    - Who works together at the same *place* (address) at the same *time* 
+    - For **contact theory**, workplace segregation is what matters
+
+- Occupational segregation reveals only the **aggregate distribution** of what workers are called
+    - An occupation may appear integrated in aggregate while individual workplaces remain highly segregated
+
+- Workplace segregation is **not simply a more granular version of occupational segregation**
+    - Workers in the same workplace often occupy different occupations (nurse, administrator, janitor)
+    - Workers in the same occupation often work at different workplaces
+
+:::
+
+## Two competing frameworks 
+
+::: columns
+::: column
+**Pool effects**
+
+<div style="font-size: 0.8em;">
+
+::: {.incremental}
+- Rooted in **neoclassical labor market theory**(ies) $^1$
+- Discrimination is "expensive" → competitive markets erode it
+- Workers seek **jobs matching** their skills; employers seek the best match
+- **Prediction:** As underrepresented groups grow in the labor force, workplace composition follows
+
+:::
+
+</div>
+
+:::
+::: column
+**Sorting effects**
+
+<div style="font-size: 0.8em;">
+
+::: {.incremental}
+- Rooted in **segmented labor market theory** $^2$ 
+- **Demand-side** mechanisms maintain segregation independent of supply
+- Employers channel groups into different positions, firms, or sectors
+- **Mechanisms:** Hiring preferences, network recruitment, institutional practices, self-selection $^3$ 
+
+:::
+
+</div>
+
+:::
+:::
+
+<div class="fragment">
+> <span style="color: black;">*Which of the two dominate in the allocation of workers?*</span> 
+</div>
+
+::: {.aside}
+
+<div style="font-size: 0.6em;">
+
+$^1$ Becker (1957); Hellerstein and Neumark (2008); Arrow (1973); Altonji and Blank (1999).   
+
+$^2$ Doeringer and Piore (1971); Reich et al. (1973); Edwards et al. (1975); Hudson (2007).
+
+$^3$ Tilly (1998); Reskin (2003); Acker (2006).
+
+
+
+</div>
+
+:::
+
+
+
+
+
+
+## An illustration 
+
+A hypothetical and stylized example of **recruitment in an high-skilled "engineering workplace"** in the context *of engineering graduates having changed from being 90% male to 70% male over the last 20 years*
+
+<br>
+
+:::: columns
+
+::: column
+**Pool effects**
+
+<div style="font-size: 0.8em;">
+
+<div class="fragment">
+The workplace will "naturally" include a greater number of female engineers as **the company hires from the changing graduate student pool** and the demographics of the workplace will continue to **reflect the demographic trends of the population over time**.
+</div>
+
+</div>
+
+:::
+
+::: column
+**Sorting effects**
+
+<div style="font-size: 0.8em;">
+
+<div class="fragment">
+The company will **continue to hire male engineers** as they have always done and therefore **female engineers will cluster in other workplaces**.
+</div>
+
+</div>
+
+:::
+
+:::
+
+## Four hypotheses structure the study (and this presentation)
+
+## Hypotheses (1)
+
+> **H1a** (*Pool Effects*): <span style="color: black;">Workplace **segregation will decrease** as labor force diversity increases, reflecting the competitive translation of supply-side demographic shifts into workplace representation.</span> 
+
+> **H1b** (*Sorting Effects*): <span style="color: black;">Workplace **segregation will remain stable or increase** despite growing labor force diversity, reflecting demand-side mechanisms that maintain segregated employment structures independent of labor pool composition.</span> 
+
+---
+
+It not enough that a previously underrepresented groups becomes bigger, the group must also, on average, have the skills to be a match for different type of workplaces. 
+
+- If no men have a nursing degree, they cannot work as a nurse. 
+- If no immigrants get a degree in child-care, they cannot work in child-care. 
+
+Two pathways to workplace segregation help further **tease-out pool and sorting effects** in a context of changing demographic composition of the workforce and changing levels of segregation: 
+
+1. ***Skill-mediated allocations***, and 
+2. ***Residual Sorting***
+
+---
+
+::: {.center}
+
+```
+                        ┌─────────────────────────┐
+                        │   Observed Segregation  │
+                        └───────────┬─────────────┘
+                                    │
+                    ┌───────────────┴───────────────┐
+                    ▼                               ▼
+        ┌───────────────────┐           ┌───────────────────┐
+        │  Skill-mediated   │           │  Residual sorting │
+        │  sorting (pools)  │           │                   │
+        ├───────────────────┤           ├───────────────────┤
+        │ Education         │           │ Discrimination    │
+        │ Occupation        │           │ Networks          │
+        │                   │           │ Preferences       │
+        └───────────────────┘           └───────────────────┘
+              Supply-side                   Demand-side
+            (qualification                  (employer/worker
+              matching)                      behavior)
+```
+
+:::
+
+<br>
+
+::: {.callout-tip appearance="minimal"}
+**Key question:** How much segregation remains after accounting for skill differences?
+
+**Note:**  Skill refers to both *level of education* and type of *occupation/degree*
+:::
+
+---
+
+### 1. Skill-mediated sorting
+
+**Segregation as a by-product of skill matching**
+
+- Demographic groups differ in education, credentials, experience
+- Jobs requiring specific skills cluster at specific workplaces
+- Workers sort into workplaces based on qualifications
+- **Result:** *Segregation occurs without discriminatory intent*
+
+
+::: {.callout-note appearance="minimal"}
+**Example:** If immigrants have lower host-country credential recognition on average, and low-credential jobs concentrate at certain workplaces, immigrant-native segregation emerges through skill matching alone.
+:::
+
+---
+
+### 2. Residual Sorting
+
+**Segregation beyond what skills can explain** (*unobservables*)
+
+- **Taste-based discrimination:** Employer preferences for/against certain groups 
+- **Statistical discrimination:** Using group membership as a proxy for unobserved productivity 
+- **Network reproduction:** Referral-based hiring reproduces existing demographics through homophily 
+- **Employee preferences:** Workers prefer colleagues from same group 
+
+## Hypotheses (2)
+
+> **H2** (*Skill Sorting Hypothesis*): <span style="color: black;">The relative contribution of skill-mediated versus residual sorting varies by demographic group. Specifically:</span> 
+
+> (a) *Immigrants*: Segregation is primarily **explained by education** (credential recognition, education mismatch)
+
+> (b) *Women*: Segregation is primarily **explained by occupation** (occupational channeling, gendering of professions/educations)
+
+> (c) *Seniors*: Segregation reflects both skill- and residual sorting (skill depreciation and age-based sorting)
+
+---
+
+## Structural moderators
+
+**Segregation is not only a product of who workers are—it also depends on where they work.**
+
+
+- $H2$ focus on *worker-level* mechanisms (skills, networks, preferences)
+- Segregation processes is expected to vary by *workplace-level* characteristics
+- The same demographic group may experience different sorting dynamics depending on organizational context
+
+<br>
+
+**Workplaces differ in:**
+
+- **Size** 
+- **Skill composition**
+- *Hiring formalization*
+- *Regulatory exposure*
+- *Turnover rates*
+
+## Hypothesis (3)
+
+<br>
+
+> **H3:** (*Workplace Size Hypothesis*): <span style="color: black;">Between-workplace segregation decreases with organizational size.</span> 
+
+- **Visibility pressure:** Subject to regulatory scrutiny, ESG reporting, public accountability
+- **More hiring decisions:** Greater opportunity for workforce composition to adjust to labor pool changes
+- **Less network hiring:** Small workplaces rely more on referrals, which reproduce existing demographics through homophily
+
+::: {.callout-warning appearance="minimal"}
+**Countervailing forces:** Large workplaces have internal hierarchies that enable *within-workplace* segregation across departments, even when overall representation looks balanced
+:::
+
+---
+
+## Hypothesis (4)
+
+<br>
+
+> **H4** (*Workplace Skill-Level Hypothesis*): <span style="color: black;">The level of segregation varies systematically across workplace skill-levels, with group-specific patterns:</span> 
+
+<br>
+
+**Two competing mechanisms:**
+
+<br>
+
+| | High-skill workplaces | Low-skill workplaces |
+|---|---|---|
+| **Reducing segregation** | Formalized, credential-based hiring limits network effects and taste-based discrimination | — |
+| **Increasing segregation** | Credential requirements exclude groups with limited access to recognition | Informal hiring, weak oversight, secondary labor markets enable discriminatory sorting |
+
+---
+
+::: columns
+
+::: column
+<div style="font-size: 0.7em;">
+
+**Immigrants**
+
+::: {.callout-note appearance="minimal"}
+**Prediction:** U-shaped pattern
+
+- *High-skill:* Credential recognition barriers $^1$ 
+- *Low-skill:* Network-based channeling into ethnic niches $^2$ 
+:::
+
+**Women**
+
+::: {.callout-note appearance="minimal"}
+**Prediction:** Inversed U-shaped pattern
+
+- *Middle-skill:* Occupational devaluation and gendered labor queues $^3$ 
+:::
+
+</div>
+:::
+
+::: column
+<div style="font-size: 0.8em;">
+
+**Seniors**
+
+::: {.callout-note appearance="minimal"}
+**Prediction:** U-shaped pattern
+
+- *High-skill:* Entrenched human capital, firm-specific knowledge protects position $^4$ 
+- *Low-skill:* Displacement into "bridge jobs" with lower barriers but lower quality $^5$ 
+
+:::
+</div>
+:::
+
+:::
+
+::: {.aside}
+<div style="font-size: 0.6em;">
+
+$^1$ 
+$^2$ 
+$^3$  
+$^4$ 
+$^5$ 
+
+</div>
+:::
+
+---
+
+### H4: Predicted patterns by *workplace* skill-level
+```{r}
+#| echo: false
+#| fig-width: 8
+#| fig-height: 4.5
+
+library(ggplot2)
+
+# Generate curve data
+x <- seq(0, 1, length.out = 100)
+
+# U-shaped for immigrants
+immigrant <- 0.3 + 0.5 * (2 * (x - 0.55))^2
+
+# U-shaped for seniors (slightly shifted)
+senior <- 0.2 + 0.4 * (2 * (x - 0.55))^2
+
+# Inverted U for women (peak in middle)
+women <- 0.2 + 0.4 * (1 - (2 * (x - 0.55))^2)
+
+df <- data.frame(
+  skill = rep(x, 3),
+  segregation = c(immigrant, women, senior),
+  group = rep(c("Immigrants", "Women", "Seniors"), each = 100)
+)
+
+df$group <- factor(df$group, levels = c("Immigrants", "Women", "Seniors"))
+
+ggplot(df, aes(x = skill, y = segregation, color = group)) +
+  geom_line(linewidth = 1.2) +
+  scale_color_manual(values = c("#2E86AB", "#A23B72", "#F18F01")) +
+  scale_x_continuous(
+    breaks = c(0, 0.5, 1),
+    labels = c("Low", "Mid", "High"),
+    expand = c(0.02, 0)
+  ) +
+  scale_y_continuous(
+    breaks = c(0.2, 0.5, 0.8),
+    labels = c("Low", "", "High"),
+    limits = c(0.1, 0.9)
+  ) +
+  labs(
+    x = "Workplace Skill Level",
+    y = expression(Segregation),
+    color = NULL,
+    caption = "Note: Stylized predictions based on theoretical frameworks. Y-axis represents relative segregation intensity."
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    legend.position = "bottom",
+    legend.key.width = unit(1.5, "cm"),
+    plot.margin = margin(10, 20, 10, 10)
+  )
+```
+
+
+## Denmark as a most likely case?
+
+**If pool effects operate anywhere, they should operate here.**
+
+<br>
+
+::: {.incremental}
+- **Legal framework:** Comprehensive anti-discrimination laws, explicit "inclusive labor market" policy 
+
+- **Tight labor markets:** Unemployment fell from >10% (1990s) to 2–3%—employers must draw from a broad labor pool
+
+- **Demographic change:** Clear variation in labor pool composition
+
+:::
+
+---
+
+| Group | 1996 | 2022 |
+|-------|------|------|
+| Immigrants | 3.7% | 16.4% |
+| Seniors (55+) | 12.0% | 21.1% |
+| Women | ~50% | ~50% |
+
+---
+
+<br>
+
+### **The flexicurity model**
+
+::: columns
+::: column
+
+**Flexibility**
+
+- Weak employment protection
+- Easy to hire and fire
+
+:::
+::: column
+
+**Security**
+
+- Generous unemployment insurance
+- Active labor market policy
+- Workers can refuse bad matches
+
+:::
+:::
+
+::: {.callout-warning appearance="minimal"}
+**Implication:** High turnover enables sorting to occur continuously if workplaces adjust composition through *selective retention* and *termination*.
+:::
+
+---
+
+::: {.callout-tip appearance="minimal"}
+
+Denmark provides a strong test because pool effects have *every advantage*:
+
+- If segregation persists despite legal protections, tight labor markets, and massive demographic shifts → sorting effects dominate
+
+- If workplaces become proportionally representative → pool effects dominate
+
+:::
+
+# Design
+
+## Data
+
+<br>
+
+**Integrated Database for Labour Market Research (IDA)**
+
+- Employer-employee linked dataset covering all Danish workers
+- Annual observations with accurate workplace identification
+
+**Register-based Labour Force Statistics (RAS)**
+
+- Standardized labor force classifications (international standards)
+- Complements IDA with occupation and industry codes
+
+**Coverage:** 1996–2022
+
+---
+
+### Sample construction
+
+<br>
+
+**Restriction:** Establishments with 50+ (full-time) employees
+
+::: {.callout-note appearance="minimal"}
+**Why large workplaces?**
+
+- Stable exposure measures (small workplaces → noisy estimates)
+- Formalized HR policies and hiring practices
+- ESG reporting requirements
+- Higher turnover → more hiring decisions observed
+:::
+
+**N:** 29,000 unique workplaces, 3,8 million unique workers over the time period. (12,000 and 1,500,000 in 2022)
+
+Represents approximately half of the Danish workforce
+
+---
+
+### Demographic classifications
+
+| Group | Definition | Reference group |
+|-------|------------|-----------------|
+| **Gender** | Female (administrative record) | Male |
+| **Immigrant** | First generation (foreign-born, no Danish parent) + descendants (Danish-born, no Danish parent) | Danish origins (one or both parents Danish-born) |
+| **Senior** | Age 55 or older | Age below 55 |
+
+---
+
+### Skill dimensions
+
+<br>
+
+Three measures capture worker and workplace skill levels:
+
+**1. Education** (HFUDD classification)
+
+- Basic (ISCED 0–2)
+- Vocational (ISCED 3–4)
+- Short-term tertiary (ISCED 5)
+- Medium-long term tertiary (ISCED 6–8)
+
+**2. Occupation** (ISCO-08, 1-digit)
+
+- 10 categories: Managers, Professionals, Technicians, Clerical, Service/Sales, Agriculture, Craft/Trades, Operators, Elementary, Armed Forces
+
+---
+
+### Workplace skill index
+
+Composite measure of workplace skill level
+
+<br>
+
+| Component | Weight | Source |
+|-----------|--------|--------|
+| Average educational attainment | 60% | HFUDD |
+| Median income | 20% | IDA |
+| Occupation rank | 20% | ILO ISCO-08 skill ranking |
+
+::: {.callout-note appearance="minimal"}
+**Note**: Currently limited to 1996-2007 while robostness checks is done on the construction of the measure from 2008-2022.
+:::
+## Measuring Segregation and Intergroup Exposure
+
+---
+
+### Step 1: Who are your coworkers?
+
+<div style="font-size: 0.8em;">
+
+For each worker, I calculate the share of coworkers from a given demographic group:
+
+$$
+\text{Share}_{iwt} = \frac{\sum_{j \neq i \in w} \mathbb{1}(group_j = g)}{n_w - 1}
+$$
+
+This is calculated for every worker, regardless of their own group membership.
+
+::: {.callout-note appearance="minimal"}
+**Example:** A 10-person workplace with 4 women
+
+- A **woman** in this workplace has 3/9 = 33% female coworkers
+- A **man** in this workplace has 4/9 = 44% female coworkers
+:::
+
+</div>
+
+---
+
+### Step 2: Isolation and Exposure
+
+<div style="font-size: 0.8em;">
+
+I then aggregate these shares separately for in-group and out-group members:
+
+**Isolation (I)** — Average share of in-group coworkers for **in-group members**
+
+$$I = \frac{1}{N_g}\sum_{i \in g} \text{Share}_{iwt}$$
+
+**Exposure (E)** — Average share of in-group coworkers for **out-group members**
+
+$$E = \frac{1}{N_{\neg g}}\sum_{i \notin g} \text{Share}_{iwt}$$
+
+::: {.callout-note appearance="minimal"}
+**Example (Women, 2022):**
+
+- **I = 63%**: The average woman has 63% female coworkers
+- **E = 37%**: The average man has 37% female coworkers
+:::
+
+</div>
+
+---
+
+### Step 3: Segregation as a gap in experience
+
+<div style="font-size: 0.8em;">
+
+$$
+S = I - E
+$$
+
+Segregation measures the **gap** in exposure to a group between in-group and out-group members.
+
+::: {.callout-note appearance="minimal"}
+**Continuing the example:**
+
+- S = 63% − 37% = **26 percentage points**
+
+**Interpretation:**
+
+- Women have 26 pp more female coworkers than men do
+- Or: a woman is **1.70×** as likely to have a female coworker as a man is (63 ÷ 37)
+:::
+
+::: {.callout-tip appearance="minimal"}
+**What does S tell us?**
+
+- **S = 0** → In-group and out-group have identical coworker composition (no segregation)
+- **S > 0** → In-group members encounter more of their own group than out-group members do
+- **S = 100** → Complete segregation (in-group only works with in-group)
+:::
+
+</div>
+
+---
+
+### Step 4: Benchmarking against chance
+
+<div style="font-size: 0.8em;">
+
+Some segregation **occurs by chance alone** due to workplace size variation and geography. I simulate random assignment (fixed workplace sizes and regions) to establish a baseline.
+
+$$
+S^{E} = \frac{S^{\text{observed}} - S^{\text{simulated}}}{100 - S^{\text{simulated}}}
+$$
+
+::: {.callout-note appearance="minimal"}
+**Example:**
+
+- Observed: I = 63%, E = 37%, S = 26%
+- Simulated (random): I = 52%, E = 48%, S = 4%
+- Maximum possible: S = 100%
+
+$$S^{E} = \frac{26 - 4}{100 - 4} = \frac{22}{96} = 23\%$$
+
+About a quarter of all *possible* excess segregation is realized.
+:::
+
+</div>
+
+::: {.aside}
+<div style="font-size: 0.6em;">
+Hellerstein and Neumark (2008)
+</div>
+:::
+
+---
+
+### Interpreting the Index
+
+<div style="font-size: 0.85em;">
+
+**What does $S^E$ tell us about a worker's experience?**
+
+| $S^E$ Value | Experience |
+|-------------|------------|
+| ≈ 0% | In-group and out-group members encounter the same coworker mix |
+| ≈ 50% | In-group members encounter substantially more of their own group |
+| ≈ 100% | In-group members work almost exclusively with their own group |
+
+::: {.callout-note appearance="minimal"}
+**Note:** In this sample (workplaces with 50+ employees), $S$ and $S^E$ are nearly identical. Large workplaces produce minimal "segregation by chance"—random assignment would make coworker composition converge toward population averages. Virtually all observed segregation reflects **systematic sorting**, not statistical noise.
+:::
+
+</div>
+
+<!---
+---
+
+<div style="font-size: 0.85em;">
+
+**Concrete examples (2022):**
+
+| Group | In-group (I) | Out-group (E) | $S^E$ | Likelihood |
+|-------|--------------|---------------|-------|------------|
+| Women | 63% female coworkers | 37% female coworkers | **26%** | 1.70× more likely |
+| Immigrants | 30% immigrant coworkers | 13% immigrant coworkers | **17%** | 2.31× more likely |
+| Seniors | 29% senior coworkers | 22% senior coworkers | **7%** | 1.32× more likely |
+
+::: {.callout-tip appearance="minimal"}
+**Reading the table:** An immigrant is **2.3 times as likely** to have an immigrant coworker as a non-immigrant is—yet $S^E$ = 17% means immigrants are only 17% of the way from random mixing to complete segregation.
+:::
+
+</div>
+--->
+
+---
+
+### Conditional segregation analysis
+
+To answer whether segregation is driven by skill differences or by other mechanisms, I randomly reassign workers *within* skill categories, holding workplace skill composition fixed: *A nurse could only be assigned to workplaces that employ nurse, etc.*
+
+<!---
+<div style="font-size: 0.75em;">
+
+1. Define ~40 skill cells (education × occupation combinations)
+2. Randomly reassign workers within each cell to workplaces
+3. Compute segregation under this constrained assignment
+4. Repeat 100 times to obtain $S^{\text{conditional}}$
+
+</div>
+--->
+
+The gap between **observed** and this **conditional baseline** tells us how much segregation is *skill-mediated*. What remains after conditioning is *residual*
+
+::: {.callout-note appearance="minimal"}
+- 0% → Skills explain nothing
+- 100% → Skills explain everything
+:::
+
+<!---
+---
+
+### Measures
+
+**Conditional effective segregation:**
+
+$$
+S^{E|skill} = \frac{S^{\text{observed}} - S^{\text{conditional}}}{100 - S^{\text{simulated}}}
+$$
+
+**Share explained by skills:**
+
+$$
+\text{Share explained} = 1 - \frac{S^{E|skill}}{S^{E}}
+$$
+
+::: {.callout-note appearance="minimal"}
+- 0% → Skills explain nothing
+- 100% → Skills explain everything
+:::
+--->
+
+---
+
+### Extensions
+
+**H3 (Size):** Compute $S^E$ by workplace size quintile
+
+**H4 (Skill level):** Compute $S^E$ by workplace skill quintile
+
+# Results 
+
+## H1: Pool Effects vs. Sorting Effects
+
+**Does increased labor force diversity lead to workplace integration?**
+
+---
+
+![](fig_faceted.svg)
+
+---
+
+![](fig_with_context0.svg)
+
+---
+
+![](fig_with_context.svg)
+
+---
+
+<div style="font-size: 0.7em;">
+
+**If pool effects dominate:** Diversity ↑ → Segregation ↓ (*negative correlation*)
+
+**If sorting effects dominate:** Diversity ↑ → Segregation ↑ (*positive correlation*)
+
+</div>
+
+![](corr.png)
+
+- **Immigrants & Seniors:** Sorting dominates—more diversity, more segregation
+- **Women:** (S)low integration despite stable representation
+
+---
+
+### Divergent Trajectories
+
+<br>
+
+| Group          | Segregation 1996 | Segregation 2022 | Change      |
+| -------------- | ---------------- | ---------------- | ----------- |
+| **Women**      | 0.29             | 0.26             | **−10.3%**  |
+| **Seniors**    | 0.03             | 0.07             | **+133.3%** |
+| **Immigrants** | 0.06             | 0.17             | **+183.3%** |
+
+
+::: {.callout-warning appearance="minimal"}
+Despite decades of gender equality policy, female segregation barely moved. For immigrants and seniors, segregation *increased* as their labor force share grew.
+:::
+
+---
+
+<!---
+
+Group-Specific Interpretations
+::: columns
+::: column
+Women
+
+Highest absolute segregation
+But stable/slightly declining
+Reading: Entrenched but not worsening; structural gender sorting is "baked in" to the Danish labor market
+
+:::
+::: column
+Seniors
+
+Lowest absolute segregation
+But fastest relative growth
+Reading: Were nearly randomly distributed in 1996; emerging concentration as cohort grows
+
+:::
+:::
+Immigrants
+
+Moderate and rising fast
+Both level and trend are concerning
+Reading: Active sorting into niches as the immigrant workforce expands; segregation intensifying with demographic growth
+
+
+
+The Paradox
+::: {.callout-tip appearance="minimal"}
+Key insight: The group with the highest segregation (women) is the only one improving. The groups with lower starting points (immigrants, seniors) are worsening.
+This suggests different mechanisms:
+
+Women: Longstanding, institutionalized segregation that policy may be slowly eroding
+Immigrants/Seniors: Dynamic sorting that responds to demographic change—the labor market channels new entrants into niches
+:::
+
+
+
+
+Three Ways to Read the Table
+1. Absolute Levels (2022)
+GroupSES^E
+SE Interpretation
+Women0.26Moderate—about a quarter of maximum possible segregation
+Immigrants0.17Modest but substantial
+Seniors0.07Low—close to random assignment
+
+::: {.callout-note appearance="minimal"}
+Ranking by level: Women >> Immigrants >> Seniors
+Gender segregation remains the most entrenched feature of Danish workplaces.
+:::
+
+
+2. Relative Change (trajectory)
+GroupChangeInterpretationWomen−10%Slight improvement, essentially stableSeniors+133%More than doubledImmigrants+183%Nearly tripled
+::: {.callout-warning appearance="minimal"}
+Ranking by change: Immigrants >> Seniors >> Women
+The groups that grew in the labor force became more segregated.
+:::
+
+---->
+
+
+
+```{r}
+#| echo: false
+#| fig-width: 8
+#| fig-height: 6
+
+library(ggplot2)
+
+df <- data.frame(
+  group = c("Women", "Seniors", "Immigrants"),
+  level_1996 = c(29, 3, 6),
+  level_2022 = c(26, 7, 17),
+  change_1996 = c(0, 0, 0),
+  change_2022 = c(-10.3, 133.3, 183.3)
+)
+
+# Calculate shortened arrow endpoints (stop before the point)
+shorten_arrow <- function(x1, y1, x2, y2, shorten_by = 0.08) {
+  dx <- x2 - x1
+  dy <- y2 - y1
+  dist <- sqrt(dx^2 + dy^2)
+  x2_short <- x1 + dx * (1 - shorten_by)
+  y2_short <- y1 + dy * (1 - shorten_by)
+  return(c(x2_short, y2_short))
+}
+
+# Calculate shortened endpoints for each group
+df$change_2022_short <- NA
+df$level_2022_short <- NA
+
+for (i in 1:nrow(df)) {
+  shortened <- shorten_arrow(
+    df$change_1996[i], df$level_1996[i],
+    df$change_2022[i], df$level_2022[i],
+    shorten_by = 0.12
+  )
+  df$change_2022_short[i] <- shortened[1]
+  df$level_2022_short[i] <- shortened[2]
+}
+
+ggplot(df) +
+  # Quadrant backgrounds (threshold at 25%)
+  annotate("rect", xmin = -60, xmax = 0, ymin = 25, ymax = 36, 
+           fill = "#fef3c7", alpha = 0.5) +
+  annotate("rect", xmin = 0, xmax = 220, ymin = 25, ymax = 36, 
+           fill = "#fee2e2", alpha = 0.5) +
+  annotate("rect", xmin = -60, xmax = 0, ymin = 0, ymax = 25, 
+           fill = "#d1fae5", alpha = 0.5) +
+  annotate("rect", xmin = 0, xmax = 220, ymin = 0, ymax = 25, 
+           fill = "#e0e7ff", alpha = 0.5) +
+  # Quadrant dividers
+  geom_vline(xintercept = 0, linetype = "dashed", color = "gray70") +
+  geom_hline(yintercept = 25, linetype = "dashed", color = "gray70") +
+  # Quadrant labels
+  annotate("text", x = -45, y = 34, label = "High & Stable", 
+           fontface = "bold", size = 3, color = "#92400e", hjust = 0) +
+  annotate("text", x = 180, y = 34, label = "High & Rising", 
+           fontface = "bold", size = 3, color = "#991b1b", hjust = 1) +
+  annotate("text", x = -45, y = 1.5, label = "Low & Stable", 
+           fontface = "bold", size = 3, color = "#065f46", hjust = 0) +
+  annotate("text", x = 180, y = 1.5, label = "Low & Rising", 
+           fontface = "bold", size = 3, color = "#3730a3", hjust = 1) +
+  # 1996 starting points (hollow circles)
+  geom_point(aes(x = change_1996, y = level_1996, color = group), 
+             size = 4, shape = 21, fill = "white", stroke = 1.5) +
+  scale_color_manual(values = c("Women" = "#A23B72", 
+                                 "Immigrants" = "#2E86AB", 
+                                 "Seniors" = "#F18F01")) +
+  # Legend annotation
+  annotate("text", x = 200, y = 30, label = "○ 1996", 
+           size = 2.8, color = "gray50", hjust = 1) +
+  annotate("text", x = 200, y = 28, label = "● 2022", 
+           size = 2.8, color = "gray50", hjust = 1) +
+  # Scales
+  scale_x_continuous(
+    limits = c(-60, 220),
+    breaks = c(-50, 0, 50, 100, 150, 200),
+    labels = function(x) paste0(ifelse(x > 0, "+", ""), x, "%")
+  ) +
+  scale_y_continuous(
+    limits = c(0, 36),
+    breaks = seq(0, 35, 5),
+    labels = function(y) paste0(y, "%")
+  ) +
+  labs(
+    x = "Change in Segregation (1996–2022)",
+    y = expression(Segregation ~ Level ~ (S^E)),
+    title = "Segregation trajectories",
+    subtitle = "Arrows show trajectory from 1996 (○) to 2022 (●)"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    legend.position = "none",
+    panel.grid.minor = element_blank(),
+    panel.grid.major = element_line(color = "gray90"),
+    plot.title = element_text(face = "bold", size = 14),
+    plot.subtitle = element_text(color = "gray50", size = 11)
+  )
+```
+
+---
+
+
+
+
+
+
+<!---
+"#2E86AB", "#A23B72", "#F18F01"
+--->
+
+```{r}
+#| echo: false
+#| fig-width: 8
+#| fig-height: 6
+
+library(ggplot2)
+
+df <- data.frame(
+  group = c("Women", "Seniors", "Immigrants"),
+  level_1996 = c(29, 3, 6),
+  level_2022 = c(26, 7, 17),
+  change_1996 = c(0, 0, 0),
+  change_2022 = c(-10.3, 133.3, 183.3)
+)
+
+# Calculate shortened arrow endpoints (stop before the point)
+shorten_arrow <- function(x1, y1, x2, y2, shorten_by = 0.08) {
+  dx <- x2 - x1
+  dy <- y2 - y1
+  dist <- sqrt(dx^2 + dy^2)
+  x2_short <- x1 + dx * (1 - shorten_by)
+  y2_short <- y1 + dy * (1 - shorten_by)
+  return(c(x2_short, y2_short))
+}
+
+# Calculate shortened endpoints for each group
+df$change_2022_short <- NA
+df$level_2022_short <- NA
+
+for (i in 1:nrow(df)) {
+  shortened <- shorten_arrow(
+    df$change_1996[i], df$level_1996[i],
+    df$change_2022[i], df$level_2022[i],
+    shorten_by = 0.12
+  )
+  df$change_2022_short[i] <- shortened[1]
+  df$level_2022_short[i] <- shortened[2]
+}
+
+ggplot(df) +
+  # Quadrant backgrounds (threshold at 25%)
+  annotate("rect", xmin = -60, xmax = 0, ymin = 25, ymax = 36, 
+           fill = "#fef3c7", alpha = 0.5) +
+  annotate("rect", xmin = 0, xmax = 220, ymin = 25, ymax = 36, 
+           fill = "#fee2e2", alpha = 0.5) +
+  annotate("rect", xmin = -60, xmax = 0, ymin = 0, ymax = 25, 
+           fill = "#d1fae5", alpha = 0.5) +
+  annotate("rect", xmin = 0, xmax = 220, ymin = 0, ymax = 25, 
+           fill = "#e0e7ff", alpha = 0.5) +
+  # Quadrant dividers
+  geom_vline(xintercept = 0, linetype = "dashed", color = "gray70") +
+  geom_hline(yintercept = 25, linetype = "dashed", color = "gray70") +
+  # Quadrant labels
+  annotate("text", x = -45, y = 34, label = "High & Stable", 
+           fontface = "bold", size = 3, color = "#92400e", hjust = 0) +
+  annotate("text", x = 180, y = 34, label = "High & Rising", 
+           fontface = "bold", size = 3, color = "#991b1b", hjust = 1) +
+  annotate("text", x = -45, y = 1.5, label = "Low & Stable", 
+           fontface = "bold", size = 3, color = "#065f46", hjust = 0) +
+  annotate("text", x = 180, y = 1.5, label = "Low & Rising", 
+           fontface = "bold", size = 3, color = "#3730a3", hjust = 1) +
+  # Arrows from 1996 to shortened 2022 position
+  geom_segment(
+    aes(x = change_1996, y = level_1996, 
+        xend = change_2022_short, yend = level_2022_short, color = group),
+    arrow = arrow(length = unit(0.3, "cm"), type = "closed"),
+    linewidth = 1.2,
+    alpha = 0.8
+  ) +
+  # 1996 starting points (hollow circles)
+  geom_point(aes(x = change_1996, y = level_1996, color = group), 
+             size = 4, shape = 21, fill = "white", stroke = 1.5) +
+  # 2022 end points (filled circles)
+  geom_point(aes(x = change_2022, y = level_2022, color = group), 
+             size = 5) + 
+  scale_color_manual(values = c("Women" = "#A23B72", 
+                                 "Immigrants" = "#2E86AB", 
+                                 "Seniors" = "#F18F01")) +
+  # Combined labels with line breaks
+  annotate("text", x = -22, y = 26.5, 
+           label = "Women\n26%, −10%", 
+           fontface = "bold", size = 3.5, hjust = 1, lineheight = 0.85) +
+  annotate("text", x = 183, y = 20, 
+           label = "Immigrants\n17%, +183%", 
+           fontface = "bold", size = 3.5, hjust = 0.5, lineheight = 0.85) +
+  annotate("text", x = 133, y = 4, 
+           label = "Seniors\n7%, +133%", 
+           fontface = "bold", size = 3.5, hjust = 0.5, lineheight = 0.85) +
+  # Legend annotation
+  annotate("text", x = 200, y = 30, label = "○ 1996", 
+           size = 2.8, color = "gray50", hjust = 1) +
+  annotate("text", x = 200, y = 28, label = "● 2022", 
+           size = 2.8, color = "gray50", hjust = 1) +
+  # Scales
+  scale_x_continuous(
+    limits = c(-60, 220),
+    breaks = c(-50, 0, 50, 100, 150, 200),
+    labels = function(x) paste0(ifelse(x > 0, "+", ""), x, "%")
+  ) +
+  scale_y_continuous(
+    limits = c(0, 36),
+    breaks = seq(0, 35, 5),
+    labels = function(y) paste0(y, "%")
+  ) +
+  labs(
+    x = "Change in Segregation (1996–2022)",
+    y = expression(Segregation ~ Level ~ (S^E)),
+    title = "Segregation trajectories",
+    subtitle = "Arrows show trajectory from 1996 (○) to 2022 (●)"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    legend.position = "none",
+    panel.grid.minor = element_blank(),
+    panel.grid.major = element_line(color = "gray90"),
+    plot.title = element_text(face = "bold", size = 14),
+    plot.subtitle = element_text(color = "gray50", size = 11)
+  )
+```
+
+---
+
+### Interpretation
+
+::: {.incremental}
+- Results align with **segmented labor market theory**: albeit not to extreme extents, *demographic groups increasingly concentrate in distinct organizational niches*
+
+- Increased national diversity does **not** translate to workplace integration
+
+- Instead, growth in group size appears to **deepen** segregation as groups are channeled into separate segments of the labor market
+:::
+
+::: {.callout-tip appearance="minimal"}
+**Bottom line:** Pool effects are overwhelmed by sorting effects for immigrants and seniors. The labor market absorbs demographic change by *segregating* rather than *integrating*.
+:::
+
+## <span style="color: grey;">(Segregation by sector)</span> 
+
+<br>
+
+#### Public sector
+
+<div style="font-size: 0.85em;">
+
+| Group          | 1996 | 2022 | Change      | N 1996    | % 1996 | N 2022    | % 2022 |
+|----------------|------|------|-------------|-----------|--------|-----------|--------|
+| **Women**      | 0.28 | 0.21 | **−25.0%**  | ≈350,000  | 61%    | ≈440,000  | 67%    |
+| **Seniors**    | 0.03 | 0.06 | **+100.0%** | ≈75,000   | 13%    | ≈175,000  | 26%    |
+| **Immigrants** | 0.03 | 0.12 | **+300.0%** | ≈20,000   | 3%     | ≈80,000   | 12%    |
+
+</div>
+
+<br>
+
+#### Private sector
+
+<div style="font-size: 0.85em;">
+
+| Group          | 1996 | 2022 | Change     | N 1996    | % 1996 | N 2022    | % 2022 |
+| -------------- | ---- | ---- | -----------|-----------|--------|-----------|--------|
+| **Women**      | 0.18 | 0.20 | **+11.1%** | ≈190,000  | 34%   | ≈320,000  | 37%   |
+| **Seniors**    | 0.03 | 0.17 | **+466.7%**| ≈50,000   | 9%    | ≈190,000  | 22%   |
+| **Immigrants** | 0.08 | 0.31 | **+287.5%**| ≈22,000   | 4%    | ≈150,000 | 18%      |
+
+</div>
+
+## H2: Skill-Mediated vs. Residual Sorting
+
+**How much segregation is explained by observable skills?**
+
+<!---
+---
+
+### Decomposition Results
+
+![](fig_explained00.svg)
+
+---
+
+### Decomposition Results
+
+![](fig_explained0.svg)
+
+---
+
+### Decomposition Results
+
+![](fig_explained1.svg)
+
+---
+
+### Decomposition Results
+
+![](fig_explained.svg)
+
+---> 
+
+---
+
+### Gender segregation: *Horizontal sorting*
+
+| Component | Explained |
+|-----------|-----------|
+| Education | 3% |
+| Occupation | 23% (28% in 1996) |
+
+::: {.callout-note appearance="minimal"}
+**Interpretation:** Gender segregation operates *horizontally*—men and women have similar education levels but sort into different occupations and workplaces.
+
+The large residual suggests self-selection into family-friendly workplaces, gendering of work, or gendered recruitment networks [@pan2015gender; @usui2008job].
+:::
+
+---
+
+### Immigrant segregation: *Vertical sorting*
+
+<br>
+
+| Component | Explained |
+|-----------|-----------|
+| Education | 56% (31% in 1996)  |
+| Occupation | 8% |
+
+::: {.callout-note appearance="minimal"}
+**Interpretation:** Immigrant segregation operates *vertically*—driven by credential gaps and foreign qualification barriers.
+
+The increasing role of education over time suggests generational convergence may reduce segregation. Remaining residual may reflect discrimination or ethnic recruitment networks.
+:::
+
+---
+
+### Senior segregation: *Mechanisms unrelated to skills?*
+
+<br>
+
+| Component | Explained |
+|-----------|-----------|
+| Education | 12% (<1% in 1996) |
+| Occupation | 8% |
+
+::: {.callout-note appearance="minimal"}
+**Interpretation:** Age-based sorting is largely *unrelated* to measurable human capital.
+
+Primary mechanisms likely include cohort-specific labor market attachment, technological displacement, or employer stereotypes about older workers.
+:::
+
+---
+
+### Group-specific sorting pathways
+
+<br>
+
+| Group | Primary pathway | *Possible* mechanism | Residual |
+|-------|-----------------|-----------|----------|
+| **Women** | Horizontal | Occupational differentiation | 73% |
+| **Immigrants** | Vertical | Credential gaps | 43% |
+| **Seniors** | Non-skill | Cohort/life decisions | >85% |
+
+::: {.callout-tip appearance="minimal"}
+**H2 supported:** Sorting mechanisms differ systematically across groups—occupational for gender, educational for immigrants, and largely non-observable for seniors.
+:::
+
+
+
+
+
+## H3: Workplace size
+
+**Does segregation decrease with organizational scale?**
+
+---
+
+![](fig_sized_0.svg)
+
+---
+
+![](fig_sized_wom.svg)
+
+---
+
+![](fig_sized_imm.svg)
+
+---
+
+![](fig_sized_sen.svg)
+
+---
+
+![](fig_sized.svg)
+
+---
+
+- **All groups:** Larger workplaces → lower segregation
+- Supports pool effects mechanism: scale enables diversification
+- **Exception:** Gender segregation increases slightly between 500–999 and 1000+ employees
+
+
+::: {.callout-tip appearance="minimal"}
+**H3 supported:** Organizational scale moderates segregation—larger workplaces show stronger integration, consistent with formalized hiring, regulatory pressure, and reduced reliance on network recruitment.
+:::
+
+---
+
+## H4: Workplace skill level
+
+**Does segregation vary across the skill spectrum?**
+
+NOTE: *this is preliminar results and robustness test are being done on the workplace skill index measure*
+
+---
+
+![](fig_skill.svg)
+
+---
+
+
+```{r}
+#| echo: false
+#| fig-width: 10
+#| fig-height: 4
+
+library(ggplot2)
+library(patchwork)
+
+# Generate x values
+x <- seq(0, 1, length.out = 100)
+
+# Women: Inverted U (peaks in middle)
+women_y <- 0.3 + 0.5 * (1 - ((x - 0.5) * 2)^2)
+
+# Immigrants: Asymmetric U (higher on low-skill side)
+immigrant_y <- 0.3 + 0.4 * ((x - 0.6) * 2)^2 + 0.25 * (1 - x)
+
+# Seniors 1996: U-shaped
+senior_1996_y <- 0.35 + 0.35 * ((x - 0.5) * 2)^2
+
+# Seniors 2022: Linear decline
+senior_2022_y <- 0.7 - 0.45 * x + 0.05 * x^2
+
+# Create data frames
+df_women <- data.frame(x = x, y = women_y)
+df_immigrant <- data.frame(x = x, y = immigrant_y)
+df_senior <- data.frame(
+  x = rep(x, 2),
+  y = c(senior_1996_y, senior_2022_y),
+  year = rep(c("1996", "2022"), each = length(x))
+)
+
+# Common theme
+theme_panel <- theme_minimal(base_size = 11) +
+  theme(
+    panel.grid.minor = element_blank(),
+    panel.grid.major = element_line(color = "gray92"),
+    plot.title = element_text(face = "bold", size = 13, hjust = 0.5),
+    plot.subtitle = element_text(size = 9, hjust = 0.5, color = "gray50"),
+    axis.title = element_text(size = 9),
+    plot.margin = margin(10, 15, 10, 15)
+  )
+
+# Women plot
+p_women <- ggplot(df_women, aes(x = x, y = y)) +
+  geom_line(color = "#dc2626", linewidth = 1.5) +
+  geom_point(data = data.frame(x = 0.5, y = max(women_y)), 
+             aes(x = x, y = y), color = "#dc2626", size = 3) +
+  annotate("text", x = 0.5, y = max(women_y) + 0.06, 
+           label = "Peak", color = "#dc2626", size = 3, fontface = "bold") +
+  scale_x_continuous(
+    breaks = c(0, 0.5, 1),
+    labels = c("Low", "Mid", "High")
+  ) +
+  scale_y_continuous(
+    limits = c(0.2, 0.9),
+    breaks = c(0.3, 0.6, 0.9),
+    labels = c("Low", "", "High")
+  ) +
+  labs(
+    title = "Women",
+    subtitle = "Inverted U-shape",
+    x = "Skill Level",
+    y = expression(S^E)
+  ) +
+  theme_panel
+
+# Immigrants plot
+p_immigrant <- ggplot(df_immigrant, aes(x = x, y = y)) +
+  geom_line(color = "#2563eb", linewidth = 1.5) +
+  geom_point(data = data.frame(x = 0, y = immigrant_y[1]), 
+             aes(x = x, y = y), color = "#2563eb", size = 3) +
+  annotate("text", x = 0.15, y = immigrant_y[1] + 0.05, 
+           label = "Highest", color = "#2563eb", size = 3, fontface = "bold") +
+  scale_x_continuous(
+    breaks = c(0, 0.5, 1),
+    labels = c("Low", "Mid", "High")
+  ) +
+  scale_y_continuous(
+    limits = c(0.2, 0.9),
+    breaks = c(0.3, 0.6, 0.9),
+    labels = c("Low", "", "High")
+  ) +
+  labs(
+    title = "Immigrants",
+    subtitle = "Asymmetric U-shape",
+    x = "Skill Level",
+    y = expression(S^E)
+  ) +
+  theme_panel
+
+# Seniors plot
+p_senior <- ggplot(df_senior, aes(x = x, y = y, linetype = year)) +
+  geom_line(color = "#059669", linewidth = 1.2) +
+  scale_linetype_manual(values = c("1996" = "dashed", "2022" = "solid")) +
+  scale_x_continuous(
+    breaks = c(0, 0.5, 1),
+    labels = c("Low", "Mid", "High")
+  ) +
+  scale_y_continuous(
+    limits = c(0.2, 0.9),
+    breaks = c(0.3, 0.6, 0.9),
+    labels = c("Low", "", "High")
+  ) +
+  labs(
+    title = "Seniors",
+    subtitle = "U → Linear (over time)",
+    x = "Skill Level",
+    y = expression(S^E),
+    linetype = NULL
+  ) +
+  theme_panel +
+  theme(
+    legend.position = c(0.8, 0.85),
+    legend.background = element_blank(),
+    legend.key.size = unit(0.8, "cm"),
+    legend.text = element_text(size = 8)
+  )
+
+# Combine plots
+p_women + p_immigrant + p_senior +
+  plot_annotation(
+    title = "Segregation Patterns by Workplace Skill Level",
+    subtitle = "Distinct shapes reveal different sorting mechanisms",
+    theme = theme(
+      plot.title = element_text(face = "bold", size = 14, hjust = 0.5),
+      plot.subtitle = element_text(size = 11, hjust = 0.5, color = "gray50")
+    )
+  )
+```
+
+::: {.callout-tip appearance="minimal"}
+**H4 supported:** Segregation patterns vary systematically by workplace skill level, with distinct shapes for each demographic group reflecting different sorting mechanisms.
+:::
+
+---
+
+| Group | Pattern | *Possible* mechanisms |
+|-------|---------|-----------|
+| **Women** | Inverted U, Significant quadratic term (p < 0.05, 1996–2015) | Gendered queues strongest at mid-skill |
+| **Immigrants** | Asymmetric U, Significant positive quadratic term ( p < 0.05) | Credential barriers (high) + ethnic niches (low) |
+| **Seniors** | U-shape in early years, approaching linear pattern by 2022 (Insignificant) | - |
+
+
+<!----
+
+"This figure shows how segregation varies across the skill spectrum for each group—and the shapes are strikingly different.
+For women, we see an inverted U. Segregation peaks in mid-skill workplaces and is lower at both extremes. This is where gendered occupational queues and devaluation mechanisms operate most strongly.
+For immigrants, the pattern is a U-shape, but heavily asymmetric. There's concentration at both ends of the skill spectrum, but the low-skill side dominates. At the high end, credential recognition barriers limit access. At the low end, network-based hiring channels immigrants into ethnic occupational niches.
+For seniors, the pattern has shifted over time. In 1996, shown by the dashed line, we see a classic U-shape—seniors were polarized, retained in high-skill positions through accumulated expertise but also pushed into low-skill roles. By 2022, the solid line, this has flattened into a near-linear decline. Seniors are now predominantly concentrated in low-skill workplaces, suggesting increased downward channeling over time.
+Each shape tells a different story about how sorting operates—horizontal for gender, vertical-asymmetric for immigrants, and shifting downward for seniors."
+
+----->
+
+---
+
+### The Core Finding
+
+The labor market appear to absorb demographic change by **channeling groups into specific workplaces**, not by integrating them across workplaces.
+
+::: {.callout-warning appearance="minimal"}
+**Sorting effects dominate pool effects.**
+
+Despite Denmark's tight labor markets, anti-discrimination laws, and dramatic demographic change—conditions maximally favorable to integration—workplace segregation has *increased* for immigrants and seniors.
+:::
+
+::: {.callout-tip appearance="minimal"}
+**Denmark's experience suggests a sobering conclusion:**
+
+Demographic diversification of the labor force does not automatically produce workplace integration. Without targeted intervention addressing group-specific sorting mechanisms, increased diversity may paradoxically deepen segregation.
+
+:::
+
+
+---
+
+| Group | Level (2022) | Trend | Implication |
+|-------|--------------|-------|-------------|
+| **Women** | Highest (26%) | Stable/declining | Entrenched but not worsening |
+| **Immigrants** | Moderate (17%) | Rising fast (+183%) | Active sorting intensifying |
+| **Seniors** | Lowest (7%) | Rising (+133%) | Emerging problem? |
+
+---
+
+### Theoretical Contributions
+
+::: {.incremental}
+1. **Pool effects have limits:** Even under ideal conditions, competitive markets do not eliminate segregation
+2. **Sorting is heterogeneous:** Different demographic groups experience fundamentally different mechanisms
+3. **Context matters:** Workplace characteristics moderate segregation dynamics
+:::
+
+---
+
+
+### Future Directions
+
+::: {.incremental}
+- **Within-workplace segregation:** Do large workplaces integrate or segregate internally? (see Diop and Larsen, 2024)
+- **Intersectionality:** How do multiple group memberships interact?
+- **Mechanisms:** Can we directly identify discrimination vs. preferences/self-selection?
+:::
+
+---
+
+### Current struggles ...
+
+1. Index construction 
+
+2. Interpretation of "strength" ... is it alot? 
+
+    What should be the baseline or point of comparison? 
+
+
+# Thank you! 
